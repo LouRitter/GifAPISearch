@@ -1,0 +1,14 @@
+#musicView .musicDiv{
+	display: inline-block;
+	padding: 5px;
+}
+body button{
+	padding: 5px;
+	margin:5px;
+	color: #000000;
+	background-color:  #9999ff;
+	border-color: #8080ff;
+}
+#addMusic{
+	margin:10px;
+}
